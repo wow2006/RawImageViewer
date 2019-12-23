@@ -1,0 +1,9 @@
+- [x] Read raw buffer.
+- [x] Convert raw buffer to QImage.
+- [x] Draw QImage.
+- [x] Implement View/Model Pattern for Image.
+- [ ] Add proxy as interperation.
+- [ ] Image interperation:
+  - [x] Add width/height Spinbox.
+  - [ ] Reinterpter image using input width/height.
+  - [ ] Benchmark interperation.
